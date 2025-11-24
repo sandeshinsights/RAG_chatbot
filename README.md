@@ -8,4 +8,4 @@ It allows users to ask questions about PDFs and text files, retrieves relevant c
 2. Run backend: `uvicorn backend/main:app --reload`  
 3. Run frontend: `streamlit run frontend/app.py`  
 
-> Demo video: `demo.mp4`
+<!-- Demo video: `demo.mp4`  -->
